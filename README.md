@@ -35,3 +35,12 @@
 ## Twórcy Mediów:
 + kodziaki w internecie: pamiętnik cyberkota
 + kodziaki w internecie: miś nagrywa film
+
+
+
+
+---
+
++ [edit](https://github.com/kodziaki/www/edit/main/README.md)
++ [git](https://github.com/kodziaki/www) 
+  
