@@ -60,6 +60,35 @@ albo?
 
 
 
+## Gry, które można przedstawić za pomocą czterech elementów:
+
++ 1. interfejsu wyjścia
++ 2. interfejsu wejścia
++ 3. logika
++ 4. dane
+
+
+1. Gra "Zgadnij Liczbę":
+- Interfejs wyjścia: Wyświetla pytanie "Zgadnij liczbę" oraz wyniki (czy liczba jest za duża, za mała lub poprawna).
+- Interfejs wejścia: Pozwala użytkownikowi wprowadzać liczbę.
+- Logika: Porównuje wprowadzoną liczbę z wylosowaną liczbą i informuje użytkownika o wyniku.
+- Dane: Przechowuje wylosowaną liczbę.
+
+2. Gra "Kółko i Krzyżyk":
+- Interfejs wyjścia: Wyświetla planszę do gry i stan gry (czyja kolej, wygrana, remis).
+- Interfejs wejścia: Pozwala użytkownikowi wybierać pole na planszy.
+- Logika: Zarządza stanem gry, sprawdza, czy jest wygrana lub remis, oraz kontroluje kolejność ruchów.
+- Dane: Przechowuje informacje o stanie planszy (np. zajęte pola).
+
+3. Gra "Wisielec":
+- Interfejs wyjścia: Wyświetla planszę z zakrytym słowem, ilość pozostałych prób, wskazuje odgadnięte litery.
+- Interfejs wejścia: Pozwala użytkownikowi wprowadzać litery.
+- Logika: Sprawdza, czy wprowadzona litera jest w słowie, aktualizuje planszę i ilość pozostałych prób.
+- Dane: Przechowuje słowo do odgadnięcia.
+
+
+
+
 
 ---
 
