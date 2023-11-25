@@ -44,10 +44,10 @@ albo?
 
 ## Gry, które można przedstawić za pomocą czterech elementów:
 
-+ 1. interfejsu wyjścia
-+ 2. interfejsu wejścia
-+ 3. logika
-+ 4. dane
++ interfejsu wyjścia
++ interfejsu wejścia
++ logika
++ dane
 
 
 1. Gra "Zgadnij Liczbę":
