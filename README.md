@@ -1,5 +1,7 @@
 # [kodziaki.pl](http://www.kodziaki.pl)
 
+- seria książek edukacyjnych dla przyszyłych programistów, architektów i managerów IT
+
 ![kodziaki](https://github.com/kodziaki/www/assets/5669657/4dded02e-a740-47a5-a6a1-2fef2cd0bfa1)
 
 
