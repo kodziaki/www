@@ -9,12 +9,19 @@
 + kodziaki w niebezpieczeństwie: cyberkot ratuje misia
 + kodziaki w niebezpieczeństwie: kot szyfrowy
 
+może tutaj lepsza nazwa: cyberaki?
 
-  
-## Tworzenie Oprogramowania, Software Development:
+
+
+## Architektura  
 + kodziaki w świecie kodu i miodu: Kot Architekt buduje pszczeli ul
 + kodziaki za kierownicą: Miś i Kot budują samochód
-+ kodziaki na koncercie: Miś i Kot tworzą muzykę
++ kodziaki na koncercie: Miś i Kot grają i śpiewają
++ kodziaki i wzorce: Miś i Kot uczą się zasad
++ kodziaki i role: Miś i Kot zamieniają się rolami
+
+
+## Tworzenie Oprogramowania, Software Development:
 + kodziaki i zabawy w kodowanie: Zgadywanka
 + kodziaki i zabawy w kodowanie: Pralka
 + kodziaki i zabawy w kodowanie: Lodówka
@@ -34,9 +41,11 @@ albo?
 + kodziaki i samochód: zabawy w kodowanie
 + kodziaki i dron: zabawy w kodowanie 
 + kodziaki i robot: zabawy w kodowanie
-  
 
-## Eksploracja kosmosu
+
+
+
+## Zarządzanie projektami na przykładzie eksploracji kosmosu
 + kodziaki w kosmosie: Kot architekt buduje rakietę
 + kodziaki w kosmosie: Miś kosmonauta leci do gwiazd
 + kodziaki w kosmosie: Kot architekt buduje stację
