@@ -1,16 +1,17 @@
-# [kodziaki.pl](http://www.kodziaki.pl)
+# [cyberaki.pl](http://www.cyberaki.pl)
 
 
-![kodziaki](https://github.com/kodziaki/www/assets/5669657/4dded02e-a740-47a5-a6a1-2fef2cd0bfa1)
-
+![cyberaki](https://github.com/kodziaki/www/assets/5669657/1f375bc6-d7fb-4ee2-add9-a42cbcbd0872)
 
 ## Wiedza o zabezpieczeniach, CyberSecurity:
-+ kodziaki w niebezpieczeństwie: cyberzagadki
-+ kodziaki w niebezpieczeństwie: cyberkot ratuje misia
-+ kodziaki w niebezpieczeństwie: kot szyfrowy
++ cyberaki w niebezpieczeństwie: cyberzagadki
++ cyberaki w niebezpieczeństwie: cyberkot ratuje misia
++ cyberaki w niebezpieczeństwie: kot szyfrowy
 
-może tutaj lepsza nazwa: cyberaki?
 
+# [kodziaki.pl](http://www.kodziaki.pl)
+
+![kodziaki](https://github.com/kodziaki/www/assets/5669657/4dded02e-a740-47a5-a6a1-2fef2cd0bfa1)
 
 
 ## Architektura  
