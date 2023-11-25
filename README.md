@@ -24,6 +24,17 @@
 + kodziaki i zabawy w kodowanie: dron
 + kodziaki i zabawy w kodowanie: robot
 
+albo?
+
++ kodziaki i Zgadywanka: zabawy w kodowanie
++ kodziaki i Pralka: zabawy w kodowanie
++ kodziaki i Lodówka: zabawy w kodowanie
++ kodziaki i Klimatyzator: zabawy w kodowanie 
++ kodziaki i Kalkulator: zabawy w kodowanie
++ kodziaki i samochód: zabawy w kodowanie
++ kodziaki i dron: zabawy w kodowanie 
++ kodziaki i robot: zabawy w kodowanie
+  
 
 ## Eksploracja kosmosu
 + kodziaki w kosmosie: Kot architekt buduje rakietę
