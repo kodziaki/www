@@ -9,11 +9,18 @@
 + kodziaki w niebezpieczeństwie: cyberkota ratuje misia
 
   
-## Twórcy Oprogramowania, Software Development:
+## Tworzenie Oprogramowania, Software Development:
 + kodziaki w świecie kodu i miodu: Kot Architekt buduje pszczeli ul
 + kodziaki za kierownicą: Miś i Kot budują samochód
 + kodziaki na koncercie: Miś i Kot tworzą muzykę
-+ kodziaki na koncercie: Miś i Kot tworzą muzykę
+
+
+## Exploracja kosmosu
++ kodziaki w kosmosie: Kot architekt buduje rakietę
++ kodziaki w kosmosie: Miś kosmonauta leci do gwiazd
++ kodziaki w kosmosie: Kot architekt buduje stację
++ kodziaki w kosmosie: Miś i Kot na księżycu
+
 
 
 ## Twórcy Mediów:
