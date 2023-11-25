@@ -20,8 +20,9 @@
 + kodziaki i zabawy w kodowanie: Lodówka
 + kodziaki i zabawy w kodowanie: Klimatyzator
 + kodziaki i zabawy w kodowanie: Kalkulator
++ kodziaki i zabawy w kodowanie: samochód
++ kodziaki i zabawy w kodowanie: dron
 + kodziaki i zabawy w kodowanie: robot
-
 
 
 ## Eksploracja kosmosu
