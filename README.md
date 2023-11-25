@@ -6,16 +6,25 @@
 
 ## Wiedza o zabezpieczeniach, CyberSecurity:
 + kodziaki w niebezpieczeństwie: cyberzagadki
-+ kodziaki w niebezpieczeństwie: cyberkota ratuje misia
++ kodziaki w niebezpieczeństwie: cyberkot ratuje misia
++ kodziaki w niebezpieczeństwie: kot szyfrowy
+
 
   
 ## Tworzenie Oprogramowania, Software Development:
 + kodziaki w świecie kodu i miodu: Kot Architekt buduje pszczeli ul
 + kodziaki za kierownicą: Miś i Kot budują samochód
 + kodziaki na koncercie: Miś i Kot tworzą muzykę
++ kodziaki i zabawy w kodowanie: Zgadywanka
++ kodziaki i zabawy w kodowanie: Pralka
++ kodziaki i zabawy w kodowanie: Lodówka
++ kodziaki i zabawy w kodowanie: Klimatyzator
++ kodziaki i zabawy w kodowanie: Kalkulator
++ kodziaki i zabawy w kodowanie: robot
 
 
-## Exploracja kosmosu
+
+## Eksploracja kosmosu
 + kodziaki w kosmosie: Kot architekt buduje rakietę
 + kodziaki w kosmosie: Miś kosmonauta leci do gwiazd
 + kodziaki w kosmosie: Kot architekt buduje stację
