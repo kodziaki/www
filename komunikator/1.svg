@@ -1,27 +1,28 @@
-<svg width="200px" height="200px" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Obliczenie wysokości sześciokąta -->
-  <defs>
-    <filter id="sharpEdges" color-interpolation-filters="sRGB">
-        <feComponentTransfer>
-            <feFuncA type="discrete" tableValues="0 1"/>
-        </feComponentTransfer>
-    </filter>
-  </defs>
-  <g filter="url(#sharpEdges)">
-    <!-- Rysowanie sześciokąta -->
-    <polygon points="0,100 50,20 250,20 300,100 250,180 50,180" stroke="black" fill="none" />
+<svg width="300px" height="260px" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rysowanie szarego kwadratu -->
+  <rect x="0" y="30" width="300" height="200" fill="none" stroke="grey" />
 
-    <!-- Rysowanie rombów i trójkątów -->
-    <!-- Lewy romb (żółty) -->
-    <polygon points="50,20 150,100 50,180 0,100" fill="yellow" />
-    
-    <!-- Prawy romb (pomarańczowy) -->
-    <polygon points="150,100 250,20 300,100 250,180" fill="orange" />
-    
-    <!-- Górny trójkąt (zielony) -->
-    <polygon points="50,20 250,20 150,100" fill="green" />
-    
-    <!-- Dolny trójkąt (niebieski) -->
-    <polygon points="50,180 250,180 150,100" fill="blue" />
-  </g>
+  <!-- Obliczenia współrzędnych dla sześciokąta -->
+  <polygon points="0,130 75,30 225,30 300,130 225,230 75,230" fill="none" stroke="black" />
+
+  <!-- Lewy żółty romb -->
+  <polygon points="0,130 75,80 150,130 75,180" fill="yellow" />
+  <text x="5" y="130" font-size="10" fill="black">Lewy romb</text>
+
+  <!-- Prawy pomarańczowy romb -->
+  <polygon points="150,130 225,80 300,130 225,180" fill="orange" />
+  <text x="220" y="130" font-size="10" fill="black" text-anchor="end">Prawy romb</text>
+
+  <!-- Górny zielony trójkąt -->
+  <polygon points="75,30 225,30 150,130" fill="green" />
+  <text x="150" y="20" font-size="10" fill="black" text-anchor="middle">Górny trójkąt</text>
+
+  <!-- Dolny niebieski trójkąt -->
+  <polygon points="75,230 225,230 150,130" fill="blue" />
+  <text x="150" y="250" font-size="10" fill="black" text-anchor="middle">Dolny trójkąt</text>
+
+  <!-- Linie przekątnych -->
+  <line x1="150" y1="30" x2="150" y2="230" stroke="black" />
+  <line x1="75" y1="30" x2="225" y2="230" stroke="black" />
+  <line x1="225" y1="30" x2="75" y2="230" stroke="black" />
 </svg>
