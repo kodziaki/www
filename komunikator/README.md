@@ -2,7 +2,7 @@
 
 kodziaki i zabawy w kodowanie
 
-```svg
+
 <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
   <!-- Sześciokąt o środku w punkcie (50,50) i promieniu 40 -->
   <polygon points="
@@ -14,7 +14,7 @@ kodziaki i zabawy w kodowanie
     20,25
   " fill="lime" stroke="black" stroke-width="2"/>
 </svg>
-```
+
 
 ## 1. Wybieranie nazwy użytkownika
 
