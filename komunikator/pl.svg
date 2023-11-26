@@ -15,11 +15,11 @@
 
   <!-- Górny zielony trójkąt -->
   <polygon points="75,30 225,30 150,130" fill="lime" />
-  <text x="150" y="60" font-size="32" fill="white" text-anchor="middle">DANE</text>
+  <text x="150" y="60" font-size="30" fill="white" text-anchor="middle">DANE</text>
 
   <!-- Dolny niebieski trójkąt -->
   <polygon points="75,230 225,230 150,130" fill="blue" />
-  <text x="150" y="223" font-size="28" fill="white" text-anchor="middle">LOGIKA</text>
+  <text x="150" y="223" font-size="26" fill="white" text-anchor="middle">LOGIKA</text>
 
   <!-- Linie przekątnych -->  
   <line x1="75" y1="30" x2="225" y2="230" stroke="white" />
