@@ -1,16 +1,17 @@
-<svg width="300px" height="260px" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
-  <!-- Lewy romb (żółty) -->
-  <polygon points="75,130 150,55 150,205 75,130" fill="yellow"/>
-  
-  <!-- Górny trójkąt (niebieski) -->
-  <polygon points="150,55 225,130 150,130" fill="blue"/>
-  
-  <!-- Dolny trójkąt (zielony) -->
-  <polygon points="150,205 225,130 150,130" fill="green"/>
-  
-  <!-- Prawy romb (pomarańczowy) -->
-  <polygon points="225,130 150,130 150,55 225,130" fill="orange"/>
-  
-  <!-- Kontur hexagona -->
-  <polygon points="150,0 0,65 0,195 150,260 300,195 300,65" fill="none" stroke="black" stroke-width="2"/>
+<svg width="300px" height="173.21px" viewBox="0 0 300 173.21" xmlns="http://www.w3.org/2000/svg">
+    <!-- Lewy romb (żółty) -->
+    <polygon points="0,86.60 50,43.30 100,86.60 50,129.90" fill="yellow"/>
+    
+    <!-- Górny trójkąt (niebieski) -->
+    <polygon points="100,86.60 150,43.30 200,86.60" fill="blue"/>
+    
+    <!-- Dolny trójkąt (zielony) -->
+    <polygon points="100,86.60 150,129.90 200,86.60" fill="green"/>
+    
+    <!-- Prawy romb (pomarańczowy) -->
+    <polygon points="200,86.60 250,129.90 300,86.60 250,43.30" fill="orange"/>
+    
+    <!-- Kontur hexagona -->
+    <polygon points="0,86.60 50,43.30 150,43.30 200,86.60 150,129.90 50,129.90"
+             fill="none" stroke="black" stroke-width="2"/>
 </svg>
