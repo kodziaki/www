@@ -26,3 +26,10 @@ kodziaki i zabawy w kodowanie
    - **Interfejs wejścia:** Przycisk "Zakończ" lub czerwona słuchawka, które naciskasz, kiedy chcesz zakończyć rozmowę.
    - **Logika:** Program na urządzeniu przerywa połączenie z drugą osobą, kiedy ty tego chcesz.
    - **Dane:** Informacja o zakończeniu rozmowy i jej długości zostają zapisane, abyś mógł wiedzieć, ile czasu spędziłeś na rozmowie.
+
+```mermaid
+graph LR
+    A[Przycisk 'Zakończ'] -->|Zakończ rozmowę| B[System Kończący]
+    B --> C[Wyświetl komunikat 'Rozmowa zakończona']
+    B --> D[Zapisz czas trwania rozmowy]
+```
