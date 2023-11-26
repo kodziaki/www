@@ -1,16 +1,16 @@
-<svg width="300px" height="260px" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
-    <!-- Żółty romb (po lewej) -->
-    <polygon points="50,130 100,80 150,130 100,180" fill="yellow"/>
+<svg width="300" height="260" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rysowanie sześciokąta -->
+  <polygon points="0,130 50,0 250,0 300,130 250,260 50,260" fill="none" stroke="black"/>
 
-    <!-- Pomarańczowy romb (po prawej) -->
-    <polygon points="200,130 150,80 150,130 200,180" fill="orange"/>
-    
-    <!-- Niebieski trójkąt (oparty o dolną krawędź) -->
-    <polygon points="150,130 100,180 200,180" fill="blue"/>
-    
-    <!-- Zielony trójkąt (oparty o górną krawędź) -->
-    <polygon points="150,130 100,80 200,80" fill="green"/>
+  <!-- Lewy romb (żółty) -->
+  <polygon points="50,130 100,65 50,0 0,65" fill="yellow"/>
 
-    <!-- Kontur hexagona -->
-    <polygon points="50,130 150,0 250,130 150,260" fill="none" stroke="black" stroke-width="2"/>
+  <!-- Prawy romb (pomarańczowy) -->
+  <polygon points="250,130 300,65 250,0 200,65" fill="orange"/>
+
+  <!-- Górny trójkąt (zielony) -->
+  <polygon points="50,0 250,0 150,65" fill="green"/>
+
+  <!-- Dolny trójkąt (niebieski) -->
+  <polygon points="50,260 250,260 150,195" fill="blue"/>
 </svg>
